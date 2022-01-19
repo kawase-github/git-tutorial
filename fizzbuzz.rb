@@ -6,6 +6,6 @@ for num in 1..100 do
   elsif num%5 == 0 then
     puts "Buzz"
   else
-    p num
+    puts num
   end
 end
